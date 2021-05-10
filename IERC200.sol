@@ -2,14 +2,6 @@
 
 pragma solidity ^0.6.12;
 
-import "https://github.com/satoshinakamototoken/satoshinakamototoken/blob/main/IUniswapV2Factoryy.sol"
-import"https://github.com/satoshinakamototoken/satoshinakamototoken/blob/main/IUniswapV2Pairr.sol"
-import"https://github.com/satoshinakamototoken/satoshinakamototoken/blob/main/IUniswapV2Router011.sol"
-import"https://github.com/satoshinakamototoken/satoshinakamototoken/blob/main/IUniswapV2Router022.sol"
-import""
-import""
-import""
-
 interface IERC20 {
     function totalSupply() external view returns (uint256);
 
